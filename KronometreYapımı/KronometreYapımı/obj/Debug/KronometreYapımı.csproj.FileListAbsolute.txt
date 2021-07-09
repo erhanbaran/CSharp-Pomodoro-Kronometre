@@ -1,0 +1,10 @@
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\obj\Debug\KronometreYapımı.csprojAssemblyReference.cache
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\obj\Debug\KronometreYapımı.Form1.resources
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\obj\Debug\KronometreYapımı.Properties.Resources.resources
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\obj\Debug\KronometreYapımı.csproj.GenerateResource.cache
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\obj\Debug\KronometreYapımı.csproj.CoreCompileInputs.cache
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\bin\Debug\KronometreYapımı.exe.config
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\bin\Debug\KronometreYapımı.exe
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\bin\Debug\KronometreYapımı.pdb
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\obj\Debug\KronometreYapımı.exe
+C:\Users\lerha\source\repos\KronometreYapımı\KronometreYapımı\obj\Debug\KronometreYapımı.pdb
